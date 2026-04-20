@@ -5,4 +5,6 @@
 3. combine with colors and opencv -- tents are usually bright and it might be possible to do this using some simple algo
 4. Use blender for syntethic generation of data
 
-### OpenCV solution -- 
+### OpenCV solution
+This approach uses only OpenCV operations counting on the fact that tent should differ from the background (colour and shape). 
+Unfortunately this approach produces mixed results and is probably unreliable for the comp setup.
