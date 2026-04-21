@@ -8,3 +8,8 @@
 ### OpenCV solution
 This approach uses only OpenCV operations counting on the fact that tent should differ from the background (colour and shape). 
 Unfortunately this approach produces mixed results and is probably unreliable for the comp setup.
+
+### Vision-Language foundation model
+First tested model yolov8s-world.pt from ultralytics
+Works surprisingly well
+![alt text](image.png)
